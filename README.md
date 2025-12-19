@@ -17,6 +17,10 @@ Markdown export and editing utilities for Emacs.
 - `C-c C-r` - Format rubric text
 - `C-c C-s` - Save with title-based filename
 
+## Demo
+
+https://youtube.com/shorts/0GaNu0Tr0Dk
+
 ## Requirements
 
 - Emacs 25.1+
